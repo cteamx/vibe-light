@@ -2,7 +2,7 @@
 
 [中文说明](README.zh-CN.md)
 
-<video src="images/x.mp4" controls=""></video>
+<video src="./images/x.mp4" controls=""></video>
 
 **Vibe Light** uses hook events to drive a **Yeelight** light strip, turning the working status of an AI coding assistant into a desktop ambient light effect. It supports multi-task status aggregation, so the light state stays stable even when multiple tasks are running at the same time.
 

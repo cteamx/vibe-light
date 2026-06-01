@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-<video src="images/x.mp4" controls=""></video>
+<video src="./images/x.mp4" controls=""></video>
 
 **Vibe Light** 通过 hook 事件驱动 **Yeelight** 灯带，把 AI 编程助手的工作状态同步成桌面氛围灯效果。支持多任务状态聚合，多个任务同时运行时也能保持灯光状态稳定。
 
