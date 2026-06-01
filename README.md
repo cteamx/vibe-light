@@ -30,9 +30,9 @@ Yeelight light strips are available on Amazon, AliExpress, Temu, and other onlin
 
 2. Install the Yeelight Python package:
 
-   ```bash
-   pip3 install yeelight
-   ```
+```bash
+pip3 install yeelight
+```
 
 3. Enable LAN control for the device in the **Yeelight App**. You can use **Yeelight Classic App** to enable LAN control, then find the device IP address in your router admin page.
 
