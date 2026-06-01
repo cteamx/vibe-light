@@ -2,7 +2,7 @@
 
 [中文说明](README.zh-CN.md)
 
-<video src="/Users/sanjin/Desktop/vibe-led/images/x.mp4" controls=""></video>
+<video src="images/x.mp4" controls=""></video>
 
 **Vibe Light** uses hook events to drive a **Yeelight** light strip, turning the working status of an AI coding assistant into a desktop ambient light effect. It supports multi-task status aggregation, so the light state stays stable even when multiple tasks are running at the same time.
 
@@ -36,7 +36,7 @@ Yeelight light strips are available on Amazon, AliExpress, Temu, and other onlin
 
 3. Enable LAN control for the device in the **Yeelight App**. You can use **Yeelight Classic App** to enable LAN control, then find the device IP address in your router admin page.
 
-![](/Users/sanjin/Desktop/vibe-led/images/1.png)
+![](images/1.png)
 
 ## Change The IP
 
@@ -68,7 +68,7 @@ Put `vibe-light` in `~/.codex/`.
 
 In Codex, enter `/hook` and follow the prompt to enable hook permissions.
 
-![](/Users/sanjin/Desktop/vibe-led/images/2.png)
+![](images/2.png)
 
 ## Manual Debugging
 
